@@ -1,0 +1,44 @@
+{
+
+    "name" : "Reeeeee",
+
+    "normalize" : true,
+
+    "norm_range": 1,
+
+    "predict": "Species",
+
+    "counts":{
+        "Family" : 4,
+        "Genus" : 8,
+        "Species" : 10
+    },
+    
+    "cluster":[
+        "MFCCs_1",
+        "MFCCs_2",
+        "MFCCs_3",
+        "MFCCs_4",
+        "MFCCs_5",
+        "MFCCs_6",
+        "MFCCs_7",
+        "MFCCs_8",
+        "MFCCs_9",
+        "MFCCs_10",
+        "MFCCs_11",
+        "MFCCs_12",
+        "MFCCs_13",
+        "MFCCs_14",
+        "MFCCs_15",
+        "MFCCs_16",
+        "MFCCs_17",
+        "MFCCs_18",
+        "MFCCs_19",
+        "MFCCs_20",
+        "MFCCs_21",
+        "MFCCs_22"],
+    
+    "draw_histograms":false,
+    
+    "radnom_state":42
+}

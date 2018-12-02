@@ -1,0 +1,10 @@
+{
+    "name" : "tReeeeee",
+    "columns": ["Survived", "Pclass", "Fare","Sex", "Age","SibSp","Parch","Fare","Embarked"],
+    "test_columns": ["PassengerId","Pclass", "Fare","Sex", "Age","SibSp","Parch","Fare","Embarked"],
+    "predict": "Survived",
+    "tree":{
+        "criterion" : "gini"
+    }
+    
+}
